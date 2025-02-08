@@ -202,7 +202,25 @@ By mastering these skills and tools, can effectively set up and manage GA4 accou
 # SEO Assignments
 # Skills and Tools for Digital Marketing Optimization for Sky Asia Tours
 
+# 1 - SEO - Google Keywords - SEO - On Page Assignment.pdf
 
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/1%20-%20SEO%20-%20Google%20Keywords%20-%20SEO%20-%20On%20Page%20Assignment.pdf
+
+# 2 - SEO - SkyAsia OnPage Optimization Assignment.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/2%20-%20SEO%20-%20SkyAsia%20OnPage%20Optimization%20Assignment.pdf
+
+# 3 - SEO - Sky Asia - Off Page Optimization.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/3%20-%20SEO%20-%20Sky%20Asia%20-%20Off%20Page%20Optimization.pdf
+
+# SEO - Sky Asia - Google Keywords.xlsx
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/SEO%20-%20Sky%20Asia%20-%20Google%20Keywords.xlsx
+
+# SEO - SkyAsia OnPage Optimization Assignment.xlsx
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/SEO%20-%20SkyAsia%20OnPage%20Optimization%20Assignment.xlsx
 
 
 ## Introduction
@@ -320,6 +338,12 @@ By leveraging the skills and tools outlined above, Sky Asia Tours can significan
 
 
 # Facebook Ads Assignment:
+
+# Facebook Ads Assignment.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Facebook%20Ads%20Assignment.pdf
+
+
 ### Skills:
 
 1. Digital Marketing Strategy:
@@ -478,6 +502,8 @@ By following these steps and using the specified tools, students will gain valua
 
 # Video Marketing Assignments:
 
+# Video Marketing Assignment Submission.pdf
+
 https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Video%20Marketing%20Assignment%20Submission.pdf
 
 ### Skills:
@@ -575,6 +601,11 @@ By completing these tasks, students will gain a comprehensive understanding of Y
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Affiliate Marketing Assignments:
+
+# Affiliate Marketing Assignment Submission.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Affiliate%20Marketing%20Assignment%20Submission.pdf
+
 ### Skills:
 
 1. Digital Marketing Skills
@@ -661,6 +692,11 @@ By learning these skills and using the appropriate tools, students can effective
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Email Marketing Assignments:
+
+# Full Report - Sky Asia Tours - Email Marketing.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Full%20Report%20-%20Sky%20Asia%20Tours%20-%20Email%20Marketing.pdf
+
 #### Skills:
 
 1. Digital Marketing Fundamentals:
