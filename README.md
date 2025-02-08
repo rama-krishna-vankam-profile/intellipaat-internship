@@ -15,6 +15,31 @@
 # Google Analytics GA4 Assignments
 The skills and tools involved in setting up a new Google Analytics 4 (GA4) account and analyzing data, Here’s a detailed explanation:
 
+# 1 - Setting Up a new Google Analytics 4 Account.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Google%20Analytics%20Assignment.pdf
+
+# 2 - Demo Google Analytics 4 Property.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/2%20-%20Demo%20Google%20Analytics%204%20Property.pdf
+
+# 3 - Traffic Sources and Campaign Performance.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/3%20-%20Traffic%20Sources%20and%20Campaign%20Performance.pdf
+
+# 4 - Event Tracking and Custom Dimensions.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/4%20-%20Event%20Tracking%20and%20Custom%20Dimensions.pdf
+
+# 5 - Audience Demographics and Interests.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/5%20-%20Audience%20Demographics%20and%20Interests.pdf
+
+# 6 - E-commerce and Conversion Analysis.pdf
+
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/6%20-%20E-commerce%20and%20Conversion%20Analysis.pdf
+
+
 ### Skills:
 
 1. Google Analytics 4 Setup and Configuration:
@@ -176,6 +201,9 @@ By mastering these skills and tools, can effectively set up and manage GA4 accou
 
 # SEO Assignments
 # Skills and Tools for Digital Marketing Optimization for Sky Asia Tours
+
+
+
 
 ## Introduction
 
