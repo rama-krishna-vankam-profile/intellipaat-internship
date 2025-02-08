@@ -1,7 +1,7 @@
 # intellipaat-internship
 
 
-#Intellipaat Assignments:
+# Intellipaat Assignments:
 1.	Google Analytics GA4 Assignments
 2.	SEO Assignments
 3.	Facebook Ads Assignments
@@ -10,7 +10,9 @@
 6.	Email Marketing Assignments
 7.	Capstone Project Assignments
 
-Google Analytics GA4 Assignments
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Google Analytics GA4 Assignments
 The skills and tools involved in setting up a new Google Analytics 4 (GA4) account and analyzing data, Here’s a detailed explanation:
 
 ### Skills:
@@ -170,9 +172,9 @@ The skills and tools involved in setting up a new Google Analytics 4 (GA4) accou
 
 By mastering these skills and tools, can effectively set up and manage GA4 accounts, create custom events and conversions, and analyze various aspects of web traffic and user behavior. This knowledge is crucial for data-driven decision-making and optimizing digital marketing strategies.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-SEO Assignments
+# SEO Assignments
 # Skills and Tools for Digital Marketing Optimization for Sky Asia Tours
 
 ## Introduction
@@ -286,29 +288,10 @@ Established in 1995, Sky Asia Tours is a rapidly growing travel company with a s
 
 By leveraging the skills and tools outlined above, Sky Asia Tours can significantly enhance their SEO efforts, improve their search engine rankings, and attract more traffic from various parts of the world. This comprehensive approach will help Sky Asia Tours achieve their goal of becoming the undisputed leader in travel within India and neighboring countries.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Facebook Ads Assignment:
+# Facebook Ads Assignment:
 ### Skills:
 
 1. Digital Marketing Strategy:
@@ -462,11 +445,13 @@ Reasoning: These insights will help in understanding the campaign's performance,
 
 By following these steps and using the specified tools, students will gain valuable skills in digital marketing, content creation, and analytics, preparing them for real-world marketing challenges.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+# Video Marketing Assignments:
 
+https://github.com/rama-krishna-vankam-profile/intellipaat-internship/blob/main/Video%20Marketing%20Assignment%20Submission.pdf
 
-Video Marketing Assignments:
 ### Skills:
 
 1. YouTube Channel Management:
@@ -559,21 +544,9 @@ C. Channel Email:
 
 By completing these tasks, students will gain a comprehensive understanding of YouTube channel management, video production, and marketing, equipping them with valuable skills for future projects and careers.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Affiliate Marketing Assignments:
+# Affiliate Marketing Assignments:
 ### Skills:
 
 1. Digital Marketing Skills
@@ -657,34 +630,9 @@ Affiliate Marketing Assignments:
 
 By learning these skills and using the appropriate tools, students can effectively complete the task of signing up for the Amazon Affiliate Program and promoting products.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Email Marketing Assignments:
+# Email Marketing Assignments:
 #### Skills:
 
 1. Digital Marketing Fundamentals:
